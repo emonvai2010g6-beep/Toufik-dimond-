@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "EMON";
+var website_name = "YASIN";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/emon1587w";
+var telegram_channel_link = "telegram channel link";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "https://t.me/emon1587w";
+var telegram_group_link = "telegram group link";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "https://youtube.com/@tentechnology-i7q?si=A0GrEZNJWIhYKUST";
+var youtube_channel_link = "YouTube channel link";
 
 // =======================================================
 // NOTIFICATION TEXT
